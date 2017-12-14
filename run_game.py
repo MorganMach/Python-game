@@ -1,6 +1,6 @@
 ###Here goes###
 
 
-import game
+import game_2
 
 game.library()
